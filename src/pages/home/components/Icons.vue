@@ -92,6 +92,9 @@
 	.icons >>> .swiper-container
 		height: 0
 		padding-bottom: 50% 
+	.icons >>> .swiper-pagination-bullets
+		position:absolute
+		top :3.5rem
 	.icon
 		position: relative
 		overflow: hidden
