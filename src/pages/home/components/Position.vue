@@ -1,11 +1,11 @@
 <template>
 	<div class="position">
 		<ul class="position-ul">
-			<li class="position-li left">
+			<li class="position-li border">
 				<span class="iconfont">&#xe652;</span>
 				定位失败
 			</li>
-			<li class="position-li">
+			<li class="position-li border-top">
 				<span class="iconfont">&#xe654;</span>
 				玩水季
 			</li>
@@ -38,8 +38,8 @@
 				width:50%
 				float: left
 				line-height: 1rem
-				border-top: 1px solid #e8e8e8
-			.left
-				border-right: 1px solid #e8e8e8
+				// border-top: 1px solid #e8e8e8
+			// .left
+			// 	border-right: 1px solid #e8e8e8
 	
 </style>
